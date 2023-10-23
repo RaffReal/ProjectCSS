@@ -1,2 +1,2 @@
 # ProjectCSS
-Rafly AFH CSS Project
+Project CSS Rafly
